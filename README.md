@@ -10,20 +10,6 @@ testing out a site build combination with WordPress, Timber, Bootstrap. The resp
 * WordPress: ( https://wordpress.org/download/ )
 * Timber: ( https://github.com/timber/timber )
 * Bootstrap: ( http://getbootstrap.com/getting-started/#download )
-* Virtualbox: ( https://www.virtualbox.org/wiki/Downloads ) 
-* Vagrant: ( https://www.vagrantup.com/downloads.html )
-
-<br>
-
-Check Vagrant Version
-```bash
-vagrant version
-```
-
-Check VirtualBox Version
-```bash
-vboxmanage --version
-```
 
 ## git:
 git is a powerful tool for version control. There's more then enough command lines for one to remember. Please see below for the most commonly used commands and a helpful link to a git primer. **note, git commands below are in linear order of git process.**
